@@ -72,13 +72,6 @@ const openai = new OpenAIApi(configuration);
     })()
 ```
 
-## Future Plans
-#### Browser Extension
-We Plan to make this into a browser extension. Head onto [DrkGPT-EXT](https://github.com/DrkTheDon/DrkGPT-EXT) and check it out!
-
-#### Builds
-I'm currently working on making a workflow that will make drkgpt.py into an exe after each commit.
-
 ## Credits
 All credits given to the OpenAI team for the API usage. 
 The Main developers of this project are **DrkTheDon** (drk#4697) and **DragonSlayer64** (ludvig#2236).
