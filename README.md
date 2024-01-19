@@ -1,4 +1,4 @@
-# DrkGPT-CS
+# DrkGPT-CS (OUTDATED)
 DrkGPT uses the GPT 3.1 API to generate an answer to your question. Now with the C# version so that you can run DrkGPT from your windows desktop without any needed installations. 
 
 Teachers nowadays use draftback to see if you copy or pasted. DrkGPT writes the essay for you at a designated speed, pausing now and then making your writing more trustworthy.
